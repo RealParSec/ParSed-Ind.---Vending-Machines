@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "rgngs_vend1/snack_glass"
+	$translucent 1
+
+
+}

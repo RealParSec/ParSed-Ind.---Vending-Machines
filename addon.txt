@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"        "Jewis Industries - Vending Machines"
+	"version"     "2.0.0"
+	"author_name" "Jewson"
+	"info"        "Dat food tho..."
+	"override"    "0"
+}
