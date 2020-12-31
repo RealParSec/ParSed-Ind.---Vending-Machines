@@ -1,8 +1,8 @@
 "AddonInfo"
 {
-	"name"        "Jewis Industries - Vending Machines"
+	"name"        "ParSed Ind. - Vending Machines"
 	"version"     "2.0.1"
-	"author_name" "Jewson"
-	"info"        "Dat food tho..."
+	"author_name" "ParSec"
+	"info"        "Very unique look at vending machines"
 	"override"    "0"
 }
